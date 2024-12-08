@@ -1,5 +1,14 @@
 # 31-Day-of-Data-Analytic-Project
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day  | Project   | Category    | Tool Used
+-----| -----------  | ------------| --------- 
+1    | BlinkIt Sales Analysis  | E-Commerce & Sales  | SQL
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
 Shop online for groceries and get your order delivered at your doorstep in minutes. Enjoy instant delivery with blinkit.
 Blinkit primarily delivers groceries, fresh fruits, vegetables, meat, stationery, bakery items, personal care, baby care and pet care products, snacks, flowers, etc.
