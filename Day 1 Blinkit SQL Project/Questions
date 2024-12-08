@@ -1,0 +1,13 @@
+1.Find the top 5 product that genrated high revenue? 
+2.Which city has placed the highest number of orders?
+3.What is the total number of delivered and canceled orders?
+4. Calculate the percentage of orders that were Delivered.
+5.what is the total revenue generated?
+6.Find the Top 5 city with the highest total revenue
+7.Identify customers who haven't placed any orders.
+8.List all customers with their rank based on total spending
+9.List all customers with their rank based on total purchase 
+10.Find customers who placed multiple orders on the same day.
+11.List the top 5 customers based on their totalPurchase 
+12. Find the average number of products per order, grouped by customer city.
+13.Calculate the percentage of total revenue contributed by each product category.
