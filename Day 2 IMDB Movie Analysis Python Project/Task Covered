@@ -1,0 +1,23 @@
+1. Project Setup and Data Loading
+    - Import required Libraries and Import Dataset
+2. Data Overview and Cleaning
+    - Display the summary
+    - Display the descriptive statistics
+    - Unique value in each column
+    - Convert datatype, check for duplicate and fill null values
+3. Univariate and Bivariate Analysis
+    - What is the distribution of movie scores? Plot a histogram and describe its shape.
+    - What is the most common genres in the IMDB? Use a bar chart to show their distribution.
+    - Is there any relationship between a movie's budget and its revenue? Plot a scatter plot and describe any observed trend.
+    - How do scores vary by country? Use a boxplot to visualize the difference in scores across country.
+    - Is there a correlation between the score a movie received against its budget and revenue? Create a heatmap and calculate the correlation coefficient.
+    - Is there a significant relationship between high IMDB scores and box office success?
+4. Genre-Specific Analysis
+    - Which genre has the highest average score? Calculate the average score for each genre and plot the results.
+    - How does the popularity of genres vary over time? Plot the number of movies released per genre each year.
+5. Yearly and Decade Trends
+    - How has the average score changed over the years? Plot the average score for each year.
+    - Which years had the highest and lowest number of movie releases? Plot the number of movies released each year.
+    - Plot the number of movies released each decade.
+6. Insights and Summary
+7. Documentation
