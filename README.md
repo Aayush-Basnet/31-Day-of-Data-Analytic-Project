@@ -75,12 +75,4 @@ This project provides key insights into the IT job market in India, analyzing fa
 2. Exploratory Data Analysis
 3. Data Cleaning
 4. Solved Basic Level Quesitons and Interpretation
-     Some Questions are:
-   
-    i. Which location has the highest number of job positions listed?
-    ii. How many unique job positions are listed in the dataset?
 6. Solved Intermediate Level Question and Interpretation
-   
-     i. Find the range and interquartile range (IQR) of the experience (years) in the dataset. How do these values help in understanding the spread of experience across the employees?
-   ii. Plot the distribution of salaries. Is the distribution positively or negatively skewed? What does this indicate about the salary structure in the IT industry in India?
-  iii. Determine the correlation between experience (years) and salary. Is there a positive, negative, or no correlation between these variables?
