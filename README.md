@@ -2,10 +2,11 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day  | Project   | Category    | Tool Used
------| -----------  | ------------| --------- 
-1    | [BlinkIt Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%201%20Blinkit%20SQL%20Project)  | E-Commerce & Sales  | SQL
-2    | [IMDB Movie Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%202%20IMDB%20Movie%20Analysis%20Python%20Project)    | Movies Distribution | Python
+Day  | Project    | Tool Used
+-----| ----------- | --------- 
+1    | [BlinkIt Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%201%20Blinkit%20SQL%20Project)   | SQL
+2    | [IMDB Movie Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%202%20IMDB%20Movie%20Analysis%20Python%20Project)    | Python
+3    | [Analysis of Highest Paying IT Jobs In India](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%203%20Analysis%20of%20Highest%20IT%20Paying%20Jobs%20in%20India)    | Python
 
 
 
@@ -57,3 +58,27 @@ The task description of this analysis can be found in this repository files : Ta
 5. Yearly and Decadal Trends
 6. Insights and Summary
 7. Documentation
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 3: Analyis of Highest Paying IT Jobs in India
+This project anlayzed the highest paying IT jobs in India, focusing on job positions, location, salaries, education, and experience levels. It provides insights into salary trends, correltations and distributions, helping to understand the IT sector's job market and the factors influencing compensation.
+
+### Dataset
+The dataset used in this analysis can be found in this repository file: position_salary.csv
+
+### Objective
+This project provides key insights into the IT job market in India, analyzing factors like job positions, salary trends, and the impact of education and experience on compensation. It helps professionals understand what roles offer the highest pay and the essential skills required for those positions. The analysis will focus on job positions, locations, salaries, educational qualifications, and experience levels.
+
+### Task Covered
+1. Project Setup and Data Loading
+2. Exploratory Data Analysis
+3. Data Cleaning
+4. Solved Basic Level Quesitons and Interpretation
+     Some Questions are:
+    i. Which location has the highest number of job positions listed?
+    ii. How many unique job positions are listed in the dataset?
+6. Solved Intermediate Level Question and Interpretation
+     i. Find the range and interquartile range (IQR) of the experience (years) in the dataset. How do these values help in understanding the spread of experience across the employees?
+   ii. Plot the distribution of salaries. Is the distribution positively or negatively skewed? What does this indicate about the salary structure in the IT industry in India?
+  iii. Determine the correlation between experience (years) and salary. Is there a positive, negative, or no correlation between these variables?
