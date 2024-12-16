@@ -7,6 +7,7 @@ Day  | Project    | Tool Used
 1    | [BlinkIt Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%201%20Blinkit%20SQL%20Project)   | SQL
 2    | [IMDB Movie Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%202%20IMDB%20Movie%20Analysis%20Python%20Project)    | Python
 3    | [Analysis of Highest Paying IT Jobs In India](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%203%20Analysis%20of%20Highest%20IT%20Paying%20Jobs%20in%20India)    | Python
+4    | [Understanding of Excel](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%204%20Understanding%20of%20Excel)    | Excel
 
 
 
@@ -76,3 +77,17 @@ This project provides key insights into the IT job market in India, analyzing fa
 3. Data Cleaning
 4. Solved Basic Level Quesitons and Interpretation
 6. Solved Intermediate Level Question and Interpretation
+
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## Day 4: Understanding of Excel
+Microsoft Excel is a spreadsheet editor developed by Microsoft.
+ ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/19d1076eb24e6f532326061cbc2b9869194a5744/Day%204%20Understanding%20of%20Excel/Excel.jpg)
+
+ This section content the understanding of Excel and its capability. (PS: I used my own created data for understanding and using of different excel formulas)
+   - Excel Formula: SUM, SUMIF, SUMIFs, COUNT, COUNTIF, COUNTIFs, MAX, MIN, CONCATENATE, RIGHT, LEFT, LEN, NETWORKDAYS
+   - Condition Formula: IF, IFs,Condition Formatting
+   - Date Formattion; Date-to-Text, Text-to-Date
+   - XLOOKUP & VLOOKUP
+   - Pivot Table
