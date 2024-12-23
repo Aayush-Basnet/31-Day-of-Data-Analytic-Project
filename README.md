@@ -8,6 +8,7 @@ Day  | Project    | Tool Used
 2    | [IMDB Movie Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%202%20IMDB%20Movie%20Analysis%20Python%20Project)    | Python
 3    | [Analysis of Highest Paying IT Jobs In India](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%203%20Analysis%20of%20Highest%20IT%20Paying%20Jobs%20in%20India)    | Python
 4    | [Understanding of Excel](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%204%20Understanding%20of%20Excel)    | Excel
+5    | [World Mining Commodities](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%205%20World%20Minning%20Commodities)  | SQL
 
 
 
@@ -91,3 +92,18 @@ Microsoft Excel is a spreadsheet editor developed by Microsoft.
    - Date Formattion; Date-to-Text, Text-to-Date
    - XLOOKUP & VLOOKUP
    - Pivot Table
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day  5: World Mining Commodities
+This project is a comprehensive SQL-based analysis of the mining industry ideal for beginners and intermediate learners.
+This project is centered around analyzing them mining industry using real-world dataset from the World Mining Commodities dataset repository. It involoes exploring the mining companies, their operaitonal data, and country-level mining statistics to generate insights and develop SQL proficiency.
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/57e9fc3acbb2c77e003c520f2f88221a0ca40171/Day%205%20World%20Minning%20Commodities/Cover%20Image.jpg)
+
+### Objective
+To analyze global mining trends, understand commodity production levels, and evaluate company performance using SQL.
+
+### Dataset
+The dataset used in this analysis can be found in this repository file:
+ i. 116_world_mining_companies_clean.csv
+ ii. world_mining_commodities_clean.csv
