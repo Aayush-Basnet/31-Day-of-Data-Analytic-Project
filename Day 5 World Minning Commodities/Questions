@@ -1,0 +1,18 @@
+Basic SQL Questions
+1. List all unique commodities mined by companies in Table 1.
+2. Retrieve the names and websites of all companies operating in Canada.
+3. List the countries from Table 2 where 'Gold' was mined in 2022.
+4. Find the total production of 'Copper' for the year 2020 across all countries
+5. Display the name and project stage of companies involved in Diamond mining.
+6. Identify the unit of measurement used for 'Nickel' in Table 2.
+7. List all companies in Table 1 that are in the 'Production' stage.
+8. Find the top 3 commodities mined in Zimbabwe based on total production in 2021.
+9. Retrieve records where the production of any commodity exceeded 1 million tons in 2022.
+10. List the countries where 'Talc' production decreased between 2018 and 2022.
+
+Intermediate Queries
+1. Find the top 5 countries with the highest total production of all commodities combined for 2022.
+2. Retrieve the names of companies operating in both 'Canada' and 'Peru'.
+3. Identify the commodity with the highest average production per country between 2018 and 2022.
+4. Find all companies involved in the mining of at least 3 different commodities.
+5. List the countries that consistently mined 'Platinum' every year from 2018 to 2022.
