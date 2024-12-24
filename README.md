@@ -9,6 +9,7 @@ Day  | Project    | Tool Used
 3    | [Analysis of Highest Paying IT Jobs In India](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%203%20Analysis%20of%20Highest%20IT%20Paying%20Jobs%20in%20India)    | Python
 4    | [Understanding of Excel](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%204%20Understanding%20of%20Excel)    | Excel
 5    | [World Mining Commodities](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%205%20World%20Minning%20Commodities)  | SQL
+6    | [Vrinda Store Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%206%20Store%20Sales%20Analysis%20using%20Excel)  | Excel & SQL
 
 
 
