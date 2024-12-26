@@ -108,3 +108,35 @@ To analyze global mining trends, understand commodity production levels, and eva
 The dataset used in this analysis can be found in this repository file:
  i. 116_world_mining_companies_clean.csv
  ii. world_mining_commodities_clean.csv
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 6: Vrinda Store Sales Anlaysis (Excel & SQL)
+
+I analyzed 30,000+ records from Vrinda Store, an online clothing retailer to develop a data-driven annual sales report. This project present insights from the analysis of Vrinda Store's 2022 data, integrating sales performance, customer demographics, and operational metrics. 
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/30bdab627a1a0475709bfe5b86172370c5baf0a5/Day%206%20Store%20Sales%20Analysis%20using%20Excel/Image/Excel%20Dashboard.png)
+
+### Dataset
+The dataset used in this analysis can be found in this repository file: Vrinda Store Data Analysis Excel.xlsx
+
+### Objective
+The objective is to create a comprehensive annual sales report to guide strategic decisions and enhance sales in 2023.
+
+### Steps and Method:
+🔹Data Cleaning and Preprocessing: Removed duplicates, corrected errors, structured sales data for analysis
+🔹Data Analysis: Identified sales trends, top-performing products, and customer preference
+🔹Data Visualization & Reports: Created interactive dashboard using hashtag#Excel (pivot tables, charts, & advanced formulas)
+🔹SQL (CTE, Group By, Aggregate Functions, Rank Functions)
+🔹Insights & Documentation: Provided actionable insights for data-driven decision-making
+
+
+### Key Insight
+1. Adults are the largest consumer group, followed by young and the elderly ones.
+  ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/30bdab627a1a0475709bfe5b86172370c5baf0a5/Day%206%20Store%20Sales%20Analysis%20using%20Excel/Image/Age%20Group%20%26%20Sales.png)
+3. Sales decline month over month, singaling a need for proactive stategies.
+4. Amazon tops the charts as the best-selling partner.
+5. Maharashtra emerges as the top-performing state with sales of ₹2,990,221.
+6. March recorded the highest revenue of ₹1,928,066 with 2,819 orders, indicating seasonal trends.
+7. Order Status: 28,641 orders delivered successfully, while only 844 were cancelled and 517 were refunded, showcasing high delivery efficiency
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/30bdab627a1a0475709bfe5b86172370c5baf0a5/Day%206%20Store%20Sales%20Analysis%20using%20Excel/Image/Top%205%20States.png)
