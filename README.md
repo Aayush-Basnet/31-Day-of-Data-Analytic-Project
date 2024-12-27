@@ -10,6 +10,7 @@ Day  | Project    | Tool Used
 4    | [Understanding of Excel](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%204%20Understanding%20of%20Excel)    | Excel
 5    | [World Mining Commodities](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%205%20World%20Minning%20Commodities)  | SQL
 6    | [Vrinda Store Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%206%20Store%20Sales%20Analysis%20using%20Excel)  | Excel & SQL
+7    | [Pizza Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%207%20Pizza%20Sales%20Analysis)  | PowerBI & SQL
 
 
 
@@ -140,3 +141,36 @@ The objective is to create a comprehensive annual sales report to guide strategi
 6. March recorded the highest revenue of ₹1,928,066 with 2,819 orders, indicating seasonal trends.
 7. Order Status: 28,641 orders delivered successfully, while only 844 were cancelled and 517 were refunded, showcasing high delivery efficiency
 ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/30bdab627a1a0475709bfe5b86172370c5baf0a5/Day%206%20Store%20Sales%20Analysis%20using%20Excel/Image/Top%205%20States.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 7: Pizza Sales Analysis (PowerBI & SQL)
+
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/b1376f705d811a9aaee27cc79f11fe8fa44fa7e1/Day%207%20Pizza%20Sales%20Analysis/Image/Pizza%20Sales%20Home%20Dashboard.png)
+
+### Dataset
+The dataset used in this analysis can be found in this repository file: [pizza_sales.csv](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/b1376f705d811a9aaee27cc79f11fe8fa44fa7e1/Day%207%20Pizza%20Sales%20Analysis/pizza_sales.csv)
+
+
+𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:-  
+The objective of this project is to analyze 𝐩𝐢𝐳𝐳𝐚 🍕 𝐬𝐚𝐥𝐞𝐬 data to identify trends and provide actionable insights that can help to increase sales and aim to uncover key metrics and patterns within the sales data by leveraging SQL queries & by building PowerBI Dashboard
+
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/b1376f705d811a9aaee27cc79f11fe8fa44fa7e1/Day%207%20Pizza%20Sales%20Analysis/Image/Pizza%20Sales%20Performance%20Report.png)
+
+
+### Key Highlights: 
+
+ - Total revenue: $817860.05
+ - Expensive pizza: The Greek pizza 
+ - Top Category: Classic
+ - Busiest Hour: 12:00
+ - Average Order Value: $17
+ - Highest Revenue Contribution: Classic Pizza
+
+### Insights: 
+•  Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
+• The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
+• Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
+• The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
+• 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
+• The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
