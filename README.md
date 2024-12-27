@@ -145,6 +145,7 @@ The objective is to create a comprehensive annual sales report to guide strategi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Day 7: Pizza Sales Analysis (PowerBI & SQL)
+This project involves leveraging SQL queries & building PowerBI Dashboard to analyze 𝐩𝐢𝐳𝐳𝐚 𝐬𝐚𝐥𝐞𝐬 data, aiming to uncover valuable insights that drive strategic decision-making and optimize business operations.
 
 ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/b1376f705d811a9aaee27cc79f11fe8fa44fa7e1/Day%207%20Pizza%20Sales%20Analysis/Image/Pizza%20Sales%20Home%20Dashboard.png)
 
@@ -168,9 +169,9 @@ The objective of this project is to analyze 𝐩𝐢𝐳𝐳𝐚 🍕 𝐬𝐚�
  - Highest Revenue Contribution: Classic Pizza
 
 ### Insights: 
-•  Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
-• The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
-• Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
-• The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
-• 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
-• The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
+ •  Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
+ • The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
+ • Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
+ • The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
+ • 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
+ • The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
