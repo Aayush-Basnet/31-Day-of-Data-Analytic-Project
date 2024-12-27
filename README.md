@@ -169,9 +169,10 @@ The objective of this project is to analyze 𝐩𝐢𝐳𝐳𝐚 🍕 𝐬𝐚�
  - Highest Revenue Contribution: Classic Pizza
 
 ### Insights: 
- •  Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
- • The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
- • Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
- • The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
- • 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
- • The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
+
+- Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
+- The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
+- Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
+- The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
+- 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
+- The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
