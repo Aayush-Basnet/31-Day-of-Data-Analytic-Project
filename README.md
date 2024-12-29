@@ -191,6 +191,7 @@ The dataset used in this analysis can be found in this repository file: [Custome
 
 
  ### Key Insights & Findings: 
+ 
 ● Contract Type and Churn: 
     - Customers on month-to-month contracts exhibit the highest churn rate, with 42% of such customers likely to churn. 
     - In contrast, customers on one-year and two-year contracts have churn rates of 11% and 3%, respectively. 
@@ -215,10 +216,12 @@ The dataset used in this analysis can be found in this repository file: [Custome
    - Implication: Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic.
  ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/d953507a20e98a4c928504c75db4770777904374/Day%208%20Teco%20Customer%20Churn%20Anlaysis%20Python/Images/Churn%20%25%20by%20SeniorCitizen.jpg)
 
+
 #### Recommendations:
 
-  ● PromoteLong-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn. 
-  ● AddressPayment Method Concerns: Implement campaigns encouraging customers to switch from electronic checks to more reliable payment methods. 
-  ● CustomerEngagement in Early Tenure: Focus on improving the customer experience within the first year, as churn is highest in this period. 
-  ● Special Senior Citizen Retention Programs: Create personalized offers or assistance programs to retain the senior demographic.
+    - PromoteLong-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn. 
+    - AddressPayment Method Concerns: Implement campaigns encouraging customers to switch from electronic checks to more reliable payment methods. 
+    - CustomerEngagement in Early Tenure: Focus on improving the customer experience within the first year, as churn is highest in this period. 
+    - Special Senior Citizen Retention Programs: Create personalized offers or assistance programs to retain the senior demographic.
+    
 ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/d953507a20e98a4c928504c75db4770777904374/Day%208%20Teco%20Customer%20Churn%20Anlaysis%20Python/Images/Countplot.jpg)
