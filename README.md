@@ -14,6 +14,7 @@ Day  | Project    | Tool Used
 8    | [Customer Churn Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%208%20Teco%20Customer%20Churn%20Anlaysis%20Python)  | Python
 9    | [BlinkIt Grocery Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%209%20BlinkIt%20Grocery%20Sales%20Excel)    | Excel
 10   | [Electric Vehicle Data Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2010%20Electric%20Vehicle%20Data%20Analysis)  | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/EVDataAnalysis_17357209335390/EVDataAnalysis)
+11   | [Automobile Pricing Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2011%20Car%20Pricing%20Analysis%20Python)    | Python(Data Wrangling, Model Development)
 
 
 
