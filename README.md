@@ -245,4 +245,33 @@ Read Documentation: [Blinkit Grocery Sales Analysis Documentation](https://githu
  - Expand Regular Fat Content Offerings: As this category constitutes 64.6% of total sales, diversifying products within this segment can further boost revenue.
  - Tier 1 Locations and High-Size Outlets: Invest in these high-performing areas and outlet types to maximize returns.
  - Stabilize Seasonal Trends: Identify reasons behind sales fluctuations and implement strategies like discounts or promotional campaigns to sustain consistent revenue across all years.
- -Customer Retention: Maintain the high average customer rating of 4.0 by focusing on quality and timely delivery, ensuring continued customer satisfaction
+ - Customer Retention: Maintain the high average customer rating of 4.0 by focusing on quality and timely delivery, ensuring continued customer satisfaction.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 10: Electric Vehicle Data Analysis
+
+The is an in-depth analysis of electric vehicle (EV) adoption across different dimensions, including EV types, vehicle make, model, and state-wise distribution. With 149,771 total EVs(2011 - 2023), the dataset highlights significant trends and insights about the growing EV market.
+
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/9a2b4493638c2152feb495a50691063c145922bd/Day%2010%20Electric%20Vehicle%20Data%20Analysis/Images/Dashboard.png)
+
+### Dataset
+Download Dataset from kaggle: [Dataset](https://www.kaggle.com/code/vencerlanz09/electric-cars-eda-with-feature-engineering/input)
+
+
+#### Key Insights and Market Trends
+- Battery Electric Vehicles (BEVs) account for 116,474 units, making up 77.8% of the total EVs whereas Plug-in Hybrid Electric Vehicles (PHEVs) contribute 33,297 units or 22.2% of the total EVs.
+- EV adoption has grown significantly since 2011. Total vehicle registrations rose from 0.8K in 2011 to 37.1K in 2023, representing a 4,538% increase.
+  ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/9a2b4493638c2152feb495a50691063c145922bd/Day%2010%20Electric%20Vehicle%20Data%20Analysis/Images/Growth%20Rate.png)
+- Tesla dominates the market with 68,939 vehicles (57.6%) of the total EVs.
+  ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/9a2b4493638c2152feb495a50691063c145922bd/Day%2010%20Electric%20Vehicle%20Data%20Analysis/Images/Screenshot%202025-01-02%20172243.png)
+- 41.87% (62,711 vehicles) are CAFV eligible, and 11.77% (17,634 vehicles) are not CAFV eligible, indicating room for improvement in meeting CAFV standards.
+
+#### Recommendations
+ - Diversify Model Offerings:
+    - Encourage other manufacturers to innovate and compete with Tesla to diversify market options.
+    - Promote more affordable models for increased accessibility.
+ - Range Optimization:
+    - Invest in R&D to improve EV range and address consumer concerns about distance limitations.
+    - Highlight vehicles with exceptional range to attract new customers.
+
