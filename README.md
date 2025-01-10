@@ -15,7 +15,8 @@ Day  | Project    | Tool Used
 9    | [BlinkIt Grocery Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%209%20BlinkIt%20Grocery%20Sales%20Excel)    | Excel
 10   | [Electric Vehicle Data Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2010%20Electric%20Vehicle%20Data%20Analysis)  | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/EVDataAnalysis_17357209335390/EVDataAnalysis)
 11   | [Automobile Pricing Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2011%20Car%20Pricing%20Analysis%20Python)    | Python(Data Wrangling, Model Development)
-
+12   | [Diwali Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2012%20Diwali%20Sales%20Analysis)    | Excel, SQL, Python, Power BI
+13   | [Laptop Pricing Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2013%20Laptop%20Pricing%20Dataset)   | Python(EDA, Model Development)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -275,3 +276,41 @@ Download Dataset from kaggle: [Dataset](https://www.kaggle.com/code/vencerlanz09
     - Invest in R&D to improve EV range and address consumer concerns about distance limitations.
     - Highlight vehicles with exceptional range to attract new customers.
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 11: Automobiles Pricing Analysis (Python: Data Wrangling & Model Development)
+
+### Part 1: Data Wrangling
+I used data wrangling to covert raw data from initial format to a format that may be better for analysis and future model development.
+#### Objectives:
+ - Handling missing values
+ - Correct data formatting
+ - Normalize data
+
+#### Table of Contents
+ - Identify missing values
+   - Identify missing values
+   - Deal with missing values
+   - Correct data format
+ - Data Normalization (centering/scaling)
+ - Binning
+ - Indicator Variable
+
+Dataset: [Dowload Dataset here](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2011%20Car%20Pricing%20Analysis%20Python/Dataset_Raw.csv)
+
+
+### Part 2: Model Development
+
+In this task, I developed several models that predicted the price of the car using the variables or features. This is just an estimate but should give us an objective idea of how much the car should cost. A model will help us understand the exact relationship between different variables and how these variables are used to predict the result.
+
+#### Objectives:
+ - Develop prediction models
+
+#### Table of Contents
+ - Linear Regression and Multiple Linear Regression
+ - Model Evaluation using Visualization
+ - Polynomial Regression
+ - Pipeline
+ - Measure for In-Sample Evaluation
+ - Prediction and Decision Making
