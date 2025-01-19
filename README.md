@@ -19,6 +19,7 @@ Day  | Project    | Tool Used
 13   | [Laptop Pricing Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2013%20Laptop%20Pricing%20Dataset)   | Python(EDA, Model Development)
 14   | [Model Evaluation and Refinement](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2014%20Model%20Evaluation%20and%20Refinement%20Automobile%20Pricing)  | Python(Model Evaluation, Over-fitting, Under-fitting and Model Selection, Ridge Regression,Grid Search)
 15   | [Heart Failure Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2015%20Hearth%20Failure%20Prediction)  | Machine Learning (Random Forest, Desicion Tree, SVM, K-nearest Neighbor, Naive Bayes)
+16   | [Target Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2016%20Target%20Sales%20Analysis)      | SQL & Python
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
