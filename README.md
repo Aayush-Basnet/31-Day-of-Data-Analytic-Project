@@ -20,6 +20,7 @@ Day  | Project    | Tool Used
 14   | [Model Evaluation and Refinement](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2014%20Model%20Evaluation%20and%20Refinement%20Automobile%20Pricing)  | Python(Model Evaluation, Over-fitting, Under-fitting and Model Selection, Ridge Regression,Grid Search)
 15   | [Heart Failure Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2015%20Hearth%20Failure%20Prediction)  | Machine Learning (Random Forest, Desicion Tree, SVM, K-nearest Neighbor, Naive Bayes)
 16   | [Target Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2016%20Target%20Sales%20Analysis)      | SQL & Python
+17   | [Coffee Sales Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2017%20Coffee%20Sales%20Analysis)        | Power BI, Excel & SQL
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -253,7 +254,7 @@ Read Documentation: [Blinkit Grocery Sales Analysis Documentation](https://githu
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Day 10: Electric Vehicle Data Analysis
+## Day 10: Electric Vehicle Data Analysis(tableau)
 
 The is an in-depth analysis of electric vehicle (EV) adoption across different dimensions, including EV types, vehicle make, model, and state-wise distribution. With 149,771 total EVs(2011 - 2023), the dataset highlights significant trends and insights about the growing EV market.
 
@@ -317,3 +318,39 @@ In this task, I developed several models that predicted the price of the car usi
  - Pipeline
  - Measure for In-Sample Evaluation
  - Prediction and Decision Making
+
+---------------------------------------------------------------------------------------------------------------
+
+## Day 17: Coffee Sales Report(Power BI, Excel, & SQL)
+
+The goal of analyzing transaction data is to get important insights regarding customer behavior,
+product popularity, sales patterns, and operational efficiencies. The purpose is to optimize 
+inventory management, improve decision-making processes, and find possible cross-selling opportunities.
+
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/8a4efa1ef0dc8f81d03fd63107fb946990f063fd/Day%2017%20Coffee%20Sales%20Analysis/Dashboard%20Picture.png)
+
+
+#### Project Task:
+	- Data collection, cleaning, and preparation
+	- Analyse monthly, daily, and hourly sales patterns with Power PivotTables.
+	- Determine high-performing days and times.
+	- Develop compelling reports and visualization
+	- Create an Interactive dashboard
+
+#### Tools used:
+	- Excel
+	- Power BI
+	- MS SQL
+
+### Dataset:
+[Download Dataset](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2017%20Coffee%20Sales%20Analysis/Coffee%20Shop%20Sales.xlsx)
+
+#### Key Takeaways:
+	 - Top Sellers: Coffee leads with 25% of total sales, followed by Bakery and Tea.
+	 - Store Performance: Our Astoria and Hell’s Kitchen locations are top performers, each contributing over 34% of total sales.
+	 - Monthly Trends: We find the steady growth in each monthly continuously increasing their sales.
+	 - Customer Habits: Peak sales times are between 8 AM and 11 AM on weekdays, aligning with the morning coffee rush.
+ 	- Product Trends: Coffee beans and branded products saw the highest month-on-month growth, while sustainably grown coffee remains our top-seller.
+ 
+#### Conclusion:
+  Peak transaction times, high-performing days, and areas for improvement are identified. By leveraging these findings,you can enhance customer experiences, refine inventory management, and boost overall sales efficiency for a thriving coffee shop venture.
