@@ -322,6 +322,7 @@ In this task, I developed several models that predicted the price of the car usi
 ---------------------------------------------------------------------------------------------------------------
 
 ## Day 17: Coffee Sales Report(Power BI, Excel, & SQL)
+[Documentation](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2017%20Coffee%20Sales%20Analysis/Coffee%20Sales%20Documentation.pdf)
 
 The goal of analyzing transaction data is to get important insights regarding customer behavior,
 product popularity, sales patterns, and operational efficiencies. The purpose is to optimize 
@@ -331,26 +332,26 @@ inventory management, improve decision-making processes, and find possible cross
 
 
 #### Project Task:
-	- Data collection, cleaning, and preparation
-	- Analyse monthly, daily, and hourly sales patterns with Power PivotTables.
-	- Determine high-performing days and times.
-	- Develop compelling reports and visualization
-	- Create an Interactive dashboard
+- Data collection, cleaning, and preparation
+- Analyse monthly, daily, and hourly sales patterns with Power PivotTables.
+- Determine high-performing days and times.
+- Develop compelling reports and visualization
+- Create an Interactive dashboard
 
 #### Tools used:
-	- Excel
-	- Power BI
-	- MS SQL
+- Excel
+- Power BI
+- MS SQL
 
 ### Dataset:
 [Download Dataset](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2017%20Coffee%20Sales%20Analysis/Coffee%20Shop%20Sales.xlsx)
 
 #### Key Takeaways:
-	 - Top Sellers: Coffee leads with 25% of total sales, followed by Bakery and Tea.
-	 - Store Performance: Our Astoria and Hell’s Kitchen locations are top performers, each contributing over 34% of total sales.
-	 - Monthly Trends: We find the steady growth in each monthly continuously increasing their sales.
-	 - Customer Habits: Peak sales times are between 8 AM and 11 AM on weekdays, aligning with the morning coffee rush.
- 	- Product Trends: Coffee beans and branded products saw the highest month-on-month growth, while sustainably grown coffee remains our top-seller.
+- Top Sellers: Coffee leads with 25% of total sales, followed by Bakery and Tea.
+- Store Performance: Our Astoria and Hell’s Kitchen locations are top performers, each contributing over 34% of total sales.
+- Monthly Trends: We find the steady growth in each monthly continuously increasing their sales.
+- Customer Habits: Peak sales times are between 8 AM and 11 AM on weekdays, aligning with the morning coffee rush.
+- Product Trends: Coffee beans and branded products saw the highest month-on-month growth, while sustainably grown coffee remains our top-seller.
  
 #### Conclusion:
   Peak transaction times, high-performing days, and areas for improvement are identified. By leveraging these findings,you can enhance customer experiences, refine inventory management, and boost overall sales efficiency for a thriving coffee shop venture.
