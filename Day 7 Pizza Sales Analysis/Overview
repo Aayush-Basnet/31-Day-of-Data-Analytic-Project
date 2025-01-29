@@ -1,0 +1,23 @@
+This project involves leveraging SQL queries & building PowerBI Dashboard to analyze 𝐩𝐢𝐳𝐳𝐚 𝐬𝐚𝐥𝐞𝐬 data, aiming to uncover valuable insights that drive strategic decision-making and optimize business operations.
+
+
+𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:-
+The objective of this project is to analyze 𝐩𝐢𝐳𝐳𝐚 🍕 𝐬𝐚𝐥𝐞𝐬 data to identify trends and provide actionable insights that can help to increase sales and aim to uncover key metrics and patterns within the sales data by leveraging SQL queries & by building PowerBI Dashboard
+
+
+Key Highlights:
+Total revenue: $817860.05
+Expensive pizza: The Greek pizza
+Top Category: Classic
+Busiest Hour: 12:00
+Average Order Value: $17
+Highest Revenue Contribution: Classic Pizza
+
+
+Insights:
+Large pizzas are the most commonly ordered size, accounting for 𝟏𝟖𝟓𝟐𝟔 orders.
+The Classic Deluxe Pizza is the most ordered type, totaling 𝟐𝟒𝟓𝟑 orders.
+Classic pizza dominates total revenue with a contribution of 𝟐𝟔.𝟗𝟏%.
+The 𝐓𝐡𝐚𝐢 𝐂𝐡𝐢𝐜𝐤𝐞𝐧 𝐏𝐢𝐳𝐳𝐚 emerges as a top revenue generator.
+𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐩𝐢𝐳𝐳𝐚 sales stand at 𝟏𝟑𝟖.
+The Thai Chicken Pizza ($43434.25), Barbecue Chicken Pizza ($42768) and California Chicken Pizza ($41409.5) generate the highest revenue.
