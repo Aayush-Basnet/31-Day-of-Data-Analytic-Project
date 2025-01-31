@@ -21,6 +21,7 @@ Day  | Project    | Tool Used
 15   | [Heart Failure Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2015%20Hearth%20Failure%20Prediction)  | Machine Learning (Random Forest, Desicion Tree, SVM, K-nearest Neighbor, Naive Bayes)
 16   | [Target Sales Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2016%20Target%20Sales%20Analysis)      | SQL & Python
 17   | [Coffee Sales Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2017%20Coffee%20Sales%20Analysis)        | Power BI, Excel & SQL
+18   | [Bank Loan Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2018%20Bank%20Loan%20Report%20Excel)        | Excel & Power BI
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
