@@ -357,3 +357,58 @@ inventory management, improve decision-making processes, and find possible cross
  
 #### Conclusion:
   Peak transaction times, high-performing days, and areas for improvement are identified. By leveraging these findings,you can enhance customer experiences, refine inventory management, and boost overall sales efficiency for a thriving coffee shop venture.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Day 18: Bank Loan Report (Excel & Power BI)
+This dashboard provides a comprehensive analysis of the bank’s loan performance, highlighting key metrics such as total loan applications, loan amounts, amount received, interest rates, and debt-to-income ratio (DTI).
+![Power BI Dashboard pdf](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/853ad1524f652f3e808bac170760c9632935f65c/Day%2018%20Bank%20Loan%20Report%20Excel/Bank%20Loan%20Report/Bank%20Loan%20Report%20pdf.pdf)
+
+#### Dashboard Summary
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/853ad1524f652f3e808bac170760c9632935f65c/Day%2018%20Bank%20Loan%20Report%20Excel/Images/Dashboard%20Summary.png)
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/853ad1524f652f3e808bac170760c9632935f65c/Day%2018%20Bank%20Loan%20Report%20Excel/Images/Dashboard%20Overview.png)
+
+#### Dataset
+[Download Dataset](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2018%20Bank%20Loan%20Report%20Excel/Loan_Dataset.xlsx)
+
+### Key Highlights
+ - Total Loan Applications: 38.6K, with 4.3K applications received MTD (Month-to-Date), reflecting 6.9% growth.
+ - Total Loan Amount Funded: $435.8M, with $54.0M funded MTD, indicating 13.0% increase.
+ - Total Amount Received: $473.1M, with $58.1M received MTD, showing 15.8% increase.
+ - Average Interest Rate: 12.05%, slightly lower than MTD rate of 12.36%.
+ - Average Debt-to-Income Ratio (DTI): 13.33%, with an MTD reduction to 13.67% (-2.7%).
+
+### Loan Performance Analysis
+- 1. Good Loan Issued: Strong Performance
+  - 85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
+  - 33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
+ - Key Strengths:
+  - Strong repayment trends.
+  - Efficient fund disbursement and collection.
+High proportion of fully paid loans.
+- 2. Bad Loan Issued: Areas of Concern
+  - 14.1% of loans are bad loans, indicating some degree of credit risk.
+  - 5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
+ - Key Concerns:
+  - Higher non-performing loan (NPL) ratio in certain segments.
+  - Potential need for stricter credit risk assessments.
+
+#### Areas of Improvement & Recommendations
+ - 1. Reduce Bad Loan Issuance (14.1%)
+  - Implement stricter credit checks and borrower risk assessments.
+  - Strengthen loan approval processes to minimize high-risk lending.
+  - Offer financial literacy programs to borrowers.
+ - 2. Improve Loan Recovery & Reduce Charge-Offs
+  - Enhance debt collection strategies.
+  - Introduce flexible repayment options for struggling borrowers.
+  - Use predictive analytics to detect potential defaults early.
+ - 3. Optimize Interest Rates & DTI Ratio
+  - Adjust interest rates based on borrower credit scores and risk factors.
+  - Maintain DTI ratio below 13% to ensure borrower affordability.
+ - 4. Enhance Loan Portfolio Diversification
+  - Expand lending to low-risk segments with stable income sources.
+  - Diversify loan products to cater to different borrower profiles.
+ - 5. Increase Efficiency in Loan Disbursement & Collection
+  - Automate loan approval and repayment tracking for faster processing.
+  - Leverage AI-based fraud detection to prevent high-risk lending.
