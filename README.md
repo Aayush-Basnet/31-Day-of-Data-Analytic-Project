@@ -381,34 +381,34 @@ This dashboard provides a comprehensive analysis of the bank’s loan performanc
 
 ### Loan Performance Analysis
 - 1. Good Loan Issued: Strong Performance
-  - 85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
-  - 33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
- - Key Strengths:
-  - Strong repayment trends.
-  - Efficient fund disbursement and collection.
-High proportion of fully paid loans.
+    - 85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
+    - 33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
+  - Key Strengths:
+    - Strong repayment trends.
+    - Efficient fund disbursement and collection.
+    - High proportion of fully paid loans.
 - 2. Bad Loan Issued: Areas of Concern
-  - 14.1% of loans are bad loans, indicating some degree of credit risk.
-  - 5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
- - Key Concerns:
-  - Higher non-performing loan (NPL) ratio in certain segments.
-  - Potential need for stricter credit risk assessments.
+    - 14.1% of loans are bad loans, indicating some degree of credit risk.
+    - 5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
+  - Key Concerns:
+    - Higher non-performing loan (NPL) ratio in certain segments.
+    - Potential need for stricter credit risk assessments.
 
 #### Areas of Improvement & Recommendations
  - 1. Reduce Bad Loan Issuance (14.1%)
-  - Implement stricter credit checks and borrower risk assessments.
-  - Strengthen loan approval processes to minimize high-risk lending.
-  - Offer financial literacy programs to borrowers.
+    - Implement stricter credit checks and borrower risk assessments.
+    - Strengthen loan approval processes to minimize high-risk lending.
+    - Offer financial literacy programs to borrowers.
  - 2. Improve Loan Recovery & Reduce Charge-Offs
-  - Enhance debt collection strategies.
-  - Introduce flexible repayment options for struggling borrowers.
-  - Use predictive analytics to detect potential defaults early.
+    - Enhance debt collection strategies.
+    - Introduce flexible repayment options for struggling borrowers.
+    - Use predictive analytics to detect potential defaults early.
  - 3. Optimize Interest Rates & DTI Ratio
-  - Adjust interest rates based on borrower credit scores and risk factors.
-  - Maintain DTI ratio below 13% to ensure borrower affordability.
+    - Adjust interest rates based on borrower credit scores and risk factors.
+    - Maintain DTI ratio below 13% to ensure borrower affordability.
  - 4. Enhance Loan Portfolio Diversification
-  - Expand lending to low-risk segments with stable income sources.
-  - Diversify loan products to cater to different borrower profiles.
+    - Expand lending to low-risk segments with stable income sources.
+    - Diversify loan products to cater to different borrower profiles.
  - 5. Increase Efficiency in Loan Disbursement & Collection
-  - Automate loan approval and repayment tracking for faster processing.
-  - Leverage AI-based fraud detection to prevent high-risk lending.
+    - Automate loan approval and repayment tracking for faster processing.
+    - Leverage AI-based fraud detection to prevent high-risk lending.
