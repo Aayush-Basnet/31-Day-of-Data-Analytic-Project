@@ -23,6 +23,7 @@ Day  | Project    | Tool Used
 17   | [Coffee Sales Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2017%20Coffee%20Sales%20Analysis)        | Power BI, Excel & SQL
 18   | [Bank Loan Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2018%20Bank%20Loan%20Report%20Excel)        | Excel & Power BI
 19   | [CarDekho Price Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2019%20CarDekho%20Price%20Prediction)   | Python
+20   | [HR Analytic Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2020%20HR%20Dashboard%20Tableau)            | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRAnalyticDashboard_17386802426140/HRDashboard)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
