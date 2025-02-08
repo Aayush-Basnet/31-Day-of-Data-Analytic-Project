@@ -413,3 +413,18 @@ This dashboard provides a comprehensive analysis of the bank’s loan performanc
  - 5. Increase Efficiency in Loan Disbursement & Collection
     - Automate loan approval and repayment tracking for faster processing.
     - Leverage AI-based fraud detection to prevent high-risk lending.
+
+-------------------------------------------------------------------------------------------------------------------
+
+## Day 20: HR Analytic Dashboard (Tableau & Power BI)
+
+I've developed an interactive Tableau & Power BI dashboard that focuses on employee attrition trends. This dashboard provides a deep dive into attrition data, enabling HR teams to identify key factors contributing to turnover and take proactive steps to improve retention strategies.
+
+[Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRAnalyticDashboard_17386802426140/HRDashboard) :  ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/328bceb1b833e819fe7362bd07ef32160b8d8793/Day%2020%20HR%20Dashboard%20Tableau/Images/Tableau%20Dashboard.png)
+
+[Download Dataset](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/main/Day%2020%20HR%20Dashboard%20Tableau/HR%20Data.xlsx)
+
+![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/328bceb1b833e819fe7362bd07ef32160b8d8793/Day%2020%20HR%20Dashboard%20Tableau/Images/HR%20Summary%20Dashboard.png)
+
+This dashboard provides a clear and concise view for HR teams, aiding in decision-making process related to promotions, retrenchments, and workforce distribution.
+
