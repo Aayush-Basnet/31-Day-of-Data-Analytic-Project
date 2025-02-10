@@ -24,6 +24,7 @@ Day  | Project    | Tool Used
 18   | [Bank Loan Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2018%20Bank%20Loan%20Report%20Excel)        | Excel & Power BI
 19   | [CarDekho Price Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2019%20CarDekho%20Price%20Prediction)   | Python
 20   | [HR Analytic Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2020%20HR%20Dashboard%20Tableau)            | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRAnalyticDashboard_17386802426140/HRDashboard)
+21   | [Spotify Music Streaming Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2021%20Spotify%20Data%20Analysis%20using%20SQL)   | SQL
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -427,4 +428,37 @@ I've developed an interactive Tableau & Power BI dashboard that focuses on emplo
 ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/328bceb1b833e819fe7362bd07ef32160b8d8793/Day%2020%20HR%20Dashboard%20Tableau/Images/HR%20Summary%20Dashboard.png)
 
 This dashboard provides a clear and concise view for HR teams, aiding in decision-making process related to promotions, retrenchments, and workforce distribution.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+## Day 21: Spotify Data Analysis (SQL)
+
+This project involves analyzing a spotify dataset having various attributes about albums, tracks, streams, views, likes, artists and other components using SQL. It covers the end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. 
+The primary goal of the project is to practice advanced SQL skills and generate valuable insights from the dataset.
+
+[Download Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+
+#### 15 Practice Questions
+
+ ### Easy Level
+   - Retrieve the names of all tracks that have more than 1 billion streams.
+   - List all albums along with their respective artists.
+   - Get the total number of comments for tracks where licensed = TRUE.
+   - Find all tracks that belong to the album type single.
+   - Count the total number of tracks by each artist.
+
+ ### Medium Level
+   - Calculate the average danceability of tracks in each album.
+   - Find the top 5 tracks with the highest energy values.
+   - List all tracks along with their views and likes where official_video = TRUE.
+   - For each album, calculate the total views of all associated tracks.
+   - Retrieve the track names that have been streamed on Spotify more than YouTube.
+
+ ### Advanced Level
+   - Find the top 3 most-viewed tracks for each artist using window functions.
+   - Write a query to find tracks where the liveness score is above the average.
+   - Use a WITH clause to calculate the difference between the highest and lowest energy values for tracks in each album.
+   - Find tracks where the energy-to-liveness ratio is greater than 1.2.
+   - Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 
