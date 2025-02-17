@@ -25,6 +25,7 @@ Day  | Project    | Tool Used
 19   | [CarDekho Price Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2019%20CarDekho%20Price%20Prediction)   | Python
 20   | [HR Analytic Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2020%20HR%20Dashboard%20Tableau)            | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRAnalyticDashboard_17386802426140/HRDashboard)
 21   | [Spotify Music Streaming Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2021%20Spotify%20Data%20Analysis%20using%20SQL)   | SQL
+22   | [Black Friday Sales Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2022%20Black%20Friday%20Sales%20Prediction)   | Machine Learning (Decision Tree, Random Forest, Extra Trees, XGBRegressor, Ridge, Linear Regression)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
