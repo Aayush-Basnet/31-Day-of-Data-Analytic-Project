@@ -26,7 +26,7 @@ Day  | Project    | Tool Used
 20   | [HR Analytic Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2020%20HR%20Dashboard%20Tableau)            | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRAnalyticDashboard_17386802426140/HRDashboard)
 21   | [Spotify Music Streaming Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2021%20Spotify%20Data%20Analysis%20using%20SQL)   | SQL
 22   | [Black Friday Sales Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2022%20Black%20Friday%20Sales%20Prediction)   | Machine Learning (Decision Tree, Random Forest, Extra Trees, XGBRegressor, Ridge, Linear Regression)
-
+23   | [IPL Data Analysis 2008-2022](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2023%20IPL%20Game%20Analysis)  | Power BI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
