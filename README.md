@@ -28,6 +28,7 @@ Day  | Project    | Tool Used
 22   | [Black Friday Sales Prediction](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2022%20Black%20Friday%20Sales%20Prediction)   | Machine Learning (Decision Tree, Random Forest, Extra Trees, XGBRegressor, Ridge, Linear Regression)
 23   | [IPL Data Analysis 2008-2022](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2023%20IPL%20Game%20Analysis)  | Power BI
 24   | [WebScraping](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2024%20Scraping%20Data%20from%20websites)    | Python
+25   | [Credit Card Transaction Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2025%20Credit%20Card%20Transaction%20Report)  | Power BI, SQL
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
