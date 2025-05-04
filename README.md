@@ -29,6 +29,7 @@ Day  | Project    | Tool Used
 23   | [IPL Data Analysis 2008-2022](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2023%20IPL%20Game%20Analysis)  | Power BI
 24   | [WebScraping](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2024%20Scraping%20Data%20from%20websites)    | Python
 25   | [Credit Card Transaction Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2025%20Credit%20Card%20Transaction%20Report)  | Power BI, SQL
+26   | [OCD Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2026%20OCD%20Dataset)   | SQL, Power BI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
