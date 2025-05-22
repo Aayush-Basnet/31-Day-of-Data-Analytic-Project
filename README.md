@@ -30,6 +30,7 @@ Day  | Project    | Tool Used
 24   | [WebScraping](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2024%20Scraping%20Data%20from%20websites)    | Python
 25   | [Credit Card Transaction Report](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2025%20Credit%20Card%20Transaction%20Report)  | Power BI, SQL
 26   | [OCD Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2026%20OCD%20Dataset)   | SQL, Power BI
+27   | [Book Recommendation System](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2027%20Book%20Recommendation%20System)  | Python
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
@@ -551,4 +552,7 @@ The primary goal of the project is to practice advanced SQL skills and generate 
 ![alt text](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/479a9aa4c7824a26c424c50ea5137d3408317b9a/Day%2025%20Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
 
 
+------------------------------------------------------------------------------------------
+## Day 26 OCD Health Dataset Analysis (SQL, Power BI)
 
+![alt img](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/6993529ab1ada188385a70ccbf06fbb2422162b0/Day%2026%20OCD%20Dataset/Dashboard%20Image.png)
