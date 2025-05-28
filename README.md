@@ -32,6 +32,7 @@ Day  | Project    | Tool Used
 26   | [OCD Dataset Analysis](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2026%20OCD%20Dataset)   | SQL, Power BI
 27   | [Book Recommendation System](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2027%20Book%20Recommendation%20System)  | Python
 28   | [HR Summary Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2028%20Tableau%20HR%20Dashboard)  | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRDashboard_17478184846450/HRSummary)
+29   | [Advance SQL Queries](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2029%20Advance%20SQL%20Analytics)  | SQL  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
