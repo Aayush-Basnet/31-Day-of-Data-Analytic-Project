@@ -559,6 +559,34 @@ The primary goal of the project is to practice advanced SQL skills and generate 
 
 ![alt img](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/6993529ab1ada188385a70ccbf06fbb2422162b0/Day%2026%20OCD%20Dataset/Dashboard%20Image.png)
 
+--------------------------------------------------------------------------------------
+
+## Day 28: HR Dashboard (Tableau)
+
+##### Overview
+The Overview section should provide a snapshot of the overall HR metrics, including:
+ - Display the total number of hired employees, active employees, and terminated employees.
+ - Visualize the total number of hired and terminated employees over the years.
+ - Present a breakdown of total employees by department and job titles.
+ - Compare total employees between headquarters (HQ) and branches (New York is the HQ)
+ - Show the distribution of employees by city and state.
+
+
+![alt img](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/blob/0b0758429ef128e1d2c2c86c1fdb5ceec94caf16/Day%2028%20Tableau%20HR%20Dashboard/HR%20Summary.png)
+
+#### Demographics
+The Demographics section should offer insights into the composition of the workforce, including:
+ - Present the gender ratio in the company.
+ - Visualize the distribution of employees across age groups and education levels.
+ - Show the total number of employees within each age group.
+ - Show the total number of employees within each education level.
+ - Present the correlation between employees’s educational backgrounds and their performance ratings.
+
+#### Income
+The income analysis section should focus on salary-related metrics, including:
+
+  - Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
+  - Present how the age correlate with the salary for employees in each department.
 
 ------------------------------------------------------------------------
 
@@ -730,7 +758,7 @@ SQL Functions Used:
     - SUM(), AVG(): Aggregates values for comparison.
     - Window Functions: SUM() OVER() for total calculations.
 ===============================================================================
-
+/*
 -- Which categories contribute the most to overall sales?
 
 WITH category_sales AS (
