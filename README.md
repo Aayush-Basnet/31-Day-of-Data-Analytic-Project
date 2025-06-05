@@ -33,6 +33,7 @@ Day  | Project    | Tool Used
 27   | [Book Recommendation System](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2027%20Book%20Recommendation%20System)  | Python
 28   | [HR Summary Dashboard](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2028%20Tableau%20HR%20Dashboard)  | [Tableau](https://public.tableau.com/app/profile/aayush.chhettri/viz/HRDashboard_17478184846450/HRSummary)
 29   | [Advance SQL Queries](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2029%20Advance%20SQL%20Analytics)  | SQL  
+30   | [Retail Store Inventory and Demand Forecasting](https://github.com/Aayush-Basnet/31-Day-of-Data-Analytic-Project/tree/main/Day%2030%20Retail%20Store%20Inventory%20and%20Demand%20Forecasting)			| SQL, Python
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Day 1: BlinkIt E-commerce Sales Analysis
@@ -758,7 +759,7 @@ SQL Functions Used:
     - SUM(), AVG(): Aggregates values for comparison.
     - Window Functions: SUM() OVER() for total calculations.
 ===============================================================================
-/*
+*/
 -- Which categories contribute the most to overall sales?
 
 WITH category_sales AS (
